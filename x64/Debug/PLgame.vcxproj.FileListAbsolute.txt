@@ -1,0 +1,3 @@
+C:\Users\gnswl\Desktop\jjihun\programinglab\game\PLgame\x64\Debug\PLgame.exe
+C:\Users\Computer\Downloads\PLgame\PLgame\x64\Debug\PLgame.exe
+C:\Users\gnswl\Desktop\jjihun\programinglab\game\x64\Debug\PLgame.exe
